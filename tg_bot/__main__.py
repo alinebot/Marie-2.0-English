@@ -43,14 +43,6 @@ buttons = [
  ]
 
 
-
-
-
-
-
-
-"""
-
 HELP_STRINGS = """
 
 Hello! my name *{}*.
