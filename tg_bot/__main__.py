@@ -22,16 +22,12 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - [support chat](https://t.me/anie_support).
-
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+My future updates will be put into This Channel - @AliaNews.
 
 For more commands click /help...
 
 Now add me to your group [here](http://t.me/missaliarobot?startgroup=true)
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
