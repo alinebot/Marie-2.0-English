@@ -29,6 +29,8 @@ you can create clone same like me..
 
 For more commands click /help...
 
+Now add me to your group [here](http://t.me/missaliarobot?startgroup=true)
+
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
