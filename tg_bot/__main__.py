@@ -28,24 +28,10 @@ For more commands click /help...
 
 Now add me to your group [here](http://t.me/missaliarobot?startgroup=true)
 
-buttons = [ 
-       
-       [
-          
-           InlineKeyboardButton(
-             text="Add to Group 👥",url="t.me/MissAliarobot?startgroup=true"
-      
-       ),
-        InlineKeyboardButton(
-          text="Gban Logs 🚫",url="https://t.me/telegram"
-       ),
-    ]
- ]
-
 
 HELP_STRINGS = """
 
-Hello! my name *{Alia}*.
+Hello! my name *{}*.
 
 *Main* available commands:
  - /start: Start the bot...
