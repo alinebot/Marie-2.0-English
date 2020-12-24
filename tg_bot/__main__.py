@@ -28,7 +28,26 @@ For more commands click /help...
 
 Now add me to your group [here](http://t.me/missaliarobot?startgroup=true)
 
-buttons = [ [ InlineKeyboardButton( text="Add to Group 👥", url="t.me/MissAliarobot?startgroup=true" ), InlineKeyboardButton( text="Gban Logs 🚫", url="https://t.me/telegram" ), ]] buttons += [ [ InlineKeyboardButton( text="Help & Commands ❔", url=f"t.me/{dispatcher.bot.username}?start=help", ), InlineKeyboardButton( text="Support Group 🎗️", url="https://t.me/anie_support" ), ]]
+buttons = [ 
+       
+       [
+          
+           InlineKeyboardButton(
+             text="Add to Group 👥",url="t.me/MissAliarobot?startgroup=true"
+      
+       ),
+        InlineKeyboardButton(
+          text="Gban Logs 🚫",url="https://t.me/telegram"
+       ),
+    ]
+ ]
+
+
+
+
+
+
+
 
 """
 
